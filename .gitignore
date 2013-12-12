@@ -1,0 +1,23 @@
+target
+test-output
+.classpath
+.settings
+.project
+.clover
+.externalToolBuilders
+.idea
+MANIFEST.MF
+rebel.xml
+*faces-config.xml.jsfdia
+bower_components
+node_modules
+.checkstyle
+
+.factorypath
+.checkstyle
+
+# Selenium 
+log.txt
+chromedriver.log
+phantomjsdriver.log
+arquillian.xml
